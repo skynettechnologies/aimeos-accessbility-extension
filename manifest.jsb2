@@ -1,0 +1,14 @@
+{
+	"projectName": "ada",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "Custom CSS",
+		"file": "custom.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}

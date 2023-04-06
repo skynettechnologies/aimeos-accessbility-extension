@@ -1,0 +1,32 @@
+{
+    	"name": "skynettechnologies/aimeos-accessbility-extension",
+	"description": "Aimeos Accessbility extension create by Skynet Technologies",
+	"keywords": ["aimeos", "extension","ADA","Accessbility"],
+	"type": "aimeos-extension",
+	"license": "LGPL-3.0",
+	"prefer-stable": true,
+	"minimum-stability": "dev",
+	"require": {
+		"php": "^8.0.10",
+		"aimeos/aimeos-laravel": "dev-master"
+	},
+	"autoload": {
+		"psr-4": {
+			"Aimeos\\": "src"
+		},
+        "psr-0": {
+            "Aimeos\\Shop\\": "src/"
+        },
+		"classmap": [
+			"src"
+		]
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Aimeos\\": "tests"
+		},
+		"classmap": [
+			"tests"
+		]
+	}
+}
