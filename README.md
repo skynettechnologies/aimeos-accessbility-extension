@@ -1,37 +1,118 @@
-# All in One Accessibility Overview
-   
-- Ensures your website is more compliant with ADA and WCAG standards.
-- Takes only 2 minutes to enable ADA compliant features on your website.
-- Reduces the risk of time-consuming accessibility lawsuits. 
-- Flexible and lightweight widget that can be changed according to law
+# Quick Aimeos Website Accessibility Remediation with All in One Accessibility Pro extension!
 
-Quick Web Accessibility Implementation with All In One Accessibility Widget.
 
-The All In One Accessibility widget is developed to improve accessibility and usability of your website. It uses the accessibility interface which handles UI and design related adjustments.
+The All in One Accessibility Pro extension was developed to improve the accessibility and usability of any size of Aimeos website. It also supports 36 languages. It uses the accessibility interface which handles UI (User Interface) and design related adjustments.
 
-Enable wide array of people with disabilities to use your Wix website effectively with All In One Accessibility widget. It will integrate basic accessibility features according to the WCAG 2.1 standards to make it accessible to people with hearing or vision impairments, cognitive impairments, and perception problems.
+All in One Accessibility extension enables people with disabilities to use your Aimeos website efficiently and effectively. Remediate your website according 
+to following standards
+##### WCAG 2.1, ATAG 2.0, ADA, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, and California Unruh standards. 
+It improves your website’s accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.
 
-Differentiate both the version (Free and Pro) and select based on your requirements.
+Following are the USP of All in One Accessibility Pro extension:
 
-### All In One Accessibility Free Version: (24 Features)
+- Screen Reader
+- Supports multi language (36 languages).
+- This extension is based on assistive technology.
+- 2 Minutes installation.
+- Reduces the risk of time-consuming accessibility lawsuits.
+- SEO friendly and enhances security due to its lightweight.
 
-- Skip Links (4 features)
-- Content Adjustments (11 features)
-- Color Adjustments (1 features)
-- Orientation Adjustments (2 features)
-- Multi-Language (36 languages)
-- Miscellaneous (5 features)
-
-### All In One Accessibility Pro Version: (53 Features)
-
-- Skip Links (4 features)
-- Content Adjustments (12 features)
-- Color Adjustments (11 features)
-- Orientation Adjustments (11 features)
-- Multi-Language (36 languages)
-- Miscellaneous (7 features) like Screen Reader, Page Structure
-- Accessibility Profiles (7 features)
-
+###Aimeos All in One Accessibility Pro (53 Features):
+####SCREEN READER
+- Read Page
+- Reading Mask
+- Read Mode
+- Reading Guide
+####SKIP LINKS
+- Skip to Menu
+- Skip to Footer
+- Skip to Navigation
+- Open Accessibility Toolbar
+####CONTENT ADJUSTMENTS
+- Content Scaling
+- Dyslexia Font
+- Readable Fonts (Legible Fonts)
+- Highlight Title
+- Highlight Links
+- Text Magnifier
+- Adjust Font Sizing
+- Adjust Line Height
+- Adjust Letter Spacing
+- Align Center
+- Align Left
+- Align Right
+####COLOR AND CONTRAST ADJUSTMENTS
+- Dark Contrast
+- Monochrome (Desaturate)
+- Light Contrast
+- High Saturation
+- High Contrast
+- Smart Contrast
+- Low Saturation
+- Invert Colors
+- Adjust Background Colors
+- Adjust Text Colors
+- Adjust Title Colors
+  ORIENTATION ADJUSTMENTS
+- Mute Sounds
+- Hide Images (Text Only)
+- Stop Animation
+- Highlight Hover
+- Highlight Focus
+- Big Black Cursor
+- Big White Cursor
+  ACCESSIBILITY PROFILES
+- Motor Impaired
+- Visually Impaired
+- Color Blind
+- Dyslexia
+- Cognitive & Learning
+- Seizure & Epileptic
+- ADHD
+####MISCELLANEOUS
+- Accessibility Statement
+- Dynamic Application Color
+- Choose Application Trigger Button Position
+- Choose Application Position
+- Hide Interface
+- Multi Language
+#####Supports 36 languages
+- English
+- Spanish
+- German
+- Arabic
+- Slovak
+- Portuguese
+- French
+- Italian
+- Polish
+- Turkish
+- Japanese
+- Finnish
+- Russian
+- Hungarian
+- Latin
+- Greek
+- Hebrew
+- Bulgarian
+- Catalan
+- Chinese
+- Czech
+- Danish
+- Dutch
+- Hindi
+- Indonesian
+- Korean
+- Lithuanian
+- Malay
+- Norwegian
+- Romanian
+- Slovenian
+- Swedish
+- Thai
+- Ukrainian
+- Vietnamese
+- Bengali
 ### Setup
 
 To Install this use `composer require skynettechnologies/aimeos-accessbility-extension`
