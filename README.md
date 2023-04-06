@@ -4,8 +4,7 @@
 The All in One Accessibility Pro extension was developed to improve the accessibility and usability of any size of Aimeos website. It also supports 36 languages. It uses the accessibility interface which handles UI (User Interface) and design related adjustments.
 
 All in One Accessibility extension enables people with disabilities to use your Aimeos website efficiently and effectively. Remediate your website according 
-to following standards
-##### WCAG 2.1, ATAG 2.0, ADA, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, and California Unruh standards. 
+to following standards WCAG 2.1, ATAG 2.0, ADA, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, and California Unruh standards. 
 It improves your website’s accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.
 
 Following are the USP of All in One Accessibility Pro extension:
@@ -119,6 +118,7 @@ Following are the USP of All in One Accessibility Pro extension:
 - Ukrainian
 - Vietnamese
 - Bengali
+
 ### Setup
 
 To Install this use `composer require skynettechnologies/aimeos-accessbility-extension`
