@@ -18,16 +18,19 @@ Following are the USP of All in One Accessibility Pro extension:
 - SEO friendly and enhances security due to its lightweight.
 
 ###Aimeos All in One Accessibility Pro (53 Features):
+
 ####SCREEN READER
 - Read Page
 - Reading Mask
 - Read Mode
 - Reading Guide
+
 ####SKIP LINKS
 - Skip to Menu
 - Skip to Footer
 - Skip to Navigation
 - Open Accessibility Toolbar
+
 ####CONTENT ADJUSTMENTS
 - Content Scaling
 - Dyslexia Font
@@ -41,6 +44,7 @@ Following are the USP of All in One Accessibility Pro extension:
 - Align Center
 - Align Left
 - Align Right
+
 ####COLOR AND CONTRAST ADJUSTMENTS
 - Dark Contrast
 - Monochrome (Desaturate)
@@ -69,6 +73,7 @@ Following are the USP of All in One Accessibility Pro extension:
 - Cognitive & Learning
 - Seizure & Epileptic
 - ADHD
+
 ####MISCELLANEOUS
 - Accessibility Statement
 - Dynamic Application Color
@@ -76,6 +81,7 @@ Following are the USP of All in One Accessibility Pro extension:
 - Choose Application Position
 - Hide Interface
 - Multi Language
+
 #####Supports 36 languages
 - English
 - Spanish
