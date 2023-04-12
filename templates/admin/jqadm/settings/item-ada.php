@@ -18,7 +18,7 @@ $accPositionArr = ["top_left" => "Top Left", "top_center" => "Top Center", "top_
     <div class="row">
         <div class="col-lg-12">
             <div class="box">
-                <h2 class="item-header">All in One Accessibilty Setting</h2>
+                <h2 class="item-header">All in One Accessibility Setting</h2>
                 
                 <?php if (empty(trim($enc->attr($this->get('adaData/default/license_key'))))) { ?> <div class="alert alert-warning">
                     <p class="mb-0">You are currently using Free version which have limited features. </br>Please <a href="https://www.skynettechnologies.com/add-ons/product/all-in-one-accessibility/">Sign up</a> and get License Key for additional features on the ADA Widget.</p>
@@ -30,7 +30,7 @@ $accPositionArr = ["top_left" => "Top Left", "top_center" => "Top Center", "top_
                 <div class="row mb-3">
                     <div class="col-md-6">
                         <div class="form-group row mandatory">
-                            <label class="col-sm-4 form-control-label help"><?= $enc->html($this->translate('admin', 'Color')) ?></label>
+                            <label class="col-sm-4 form-control-label help"><?= $enc->html($this->translate('admin', 'Colour')) ?></label>
                             <div class="col-sm-8">
                                 <input class="form-control" type="color" required="required" tabindex="1" name="<?= $enc->attr($this->formparam(array('ada', 'default', 'color'))) ?>" placeholder="<?= $enc->attr($this->translate('admin', 'Default Color')) ?>" value="<?= $enc->attr($this->get('adaData/default/color')) ?>">
                             </div>
@@ -48,7 +48,7 @@ $accPositionArr = ["top_left" => "Top Left", "top_center" => "Top Center", "top_
                     </div>
                     <div class="col-md-6">
                         <div class="form-group row">
-                            <label class="col-sm-12 form-control-label help" style="justify-content: flex-start;"><?= $enc->html($this->translate('admin', 'Where would you like to place accessbility icon')) ?></label>
+                            <label class="col-sm-12 form-control-label help" style="justify-content: flex-start;"><?= $enc->html($this->translate('admin', 'Where would you like to place accessibility icon')) ?></label>
                             <div class="form-check-wrapper" style="column-count: 2; column-gap: 20px; row-gap: 20px;">
                                 <?php foreach ($accPositionArr as $key => $position) : ?>
                                     <div class="form-check" style="padding-left: 0;">
@@ -60,7 +60,7 @@ $accPositionArr = ["top_left" => "Top Left", "top_center" => "Top Center", "top_
                                 <?php endforeach; ?>
                             </div>
                             <div class="col-sm-12 form-text text-muted help-text">
-                                <?= $enc->html($this->translate('admin', 'Where would you like to place accessbility icon')) ?>
+                                <?= $enc->html($this->translate('admin', 'Where would you like to place accessibility icon')) ?>
                             </div>
                         </div>
                     </div>
