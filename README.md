@@ -121,13 +121,13 @@ Following are the USP of All in One Accessibility Pro extension:
 
 ### Setup
 
-To Install All in one Accessbility Pro extension please use this command `composer require skynettechnologies/aimeos-accessbility-extension`
+To Install All in one Accessibility Pro extension please use this command `composer require skynettechnologies/aimeos-accessibility-extension`
 
 Please make sure you execute the Aimeos database setup script which will create all the necessary tables:
 
 `php artisan aimeos:setup`
 
-After adding this it will create ADA setting in the aimeos backend and through that we can set All In One Accessibilty Setting i.e. color, Where would you like to place accessbility icon, License Key (which you can get it by clicking on buy plan as shown below of it.)
+After adding this it will create ADA setting in the aimeos backend and through that we can set All In One Accessibilty Setting i.e. color, Where would you like to place accessibility icon, License Key (which you can get it by clicking on buy plan as shown below of it.)
 
 ### For Any queries
 For any queries please ping us at [Skynet Technologies Support](mailto:aimeos@skynettechnologies.com)
