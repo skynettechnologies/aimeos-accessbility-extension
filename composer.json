@@ -1,7 +1,7 @@
 {
-    	"name": "skynettechnologies/aimeos-accessbility-extension",
-	"description": "Aimeos Accessbility extension create by Skynet Technologies",
-	"keywords": ["aimeos", "extension","ADA","Accessbility"],
+	"name": "skynettechnologies/aimeos-accessibility-extension",
+	"description": "Aimeos Accessibility extension create by Skynet Technologies",
+	"keywords": ["aimeos", "extension","ADA","Accessibility"],
 	"type": "aimeos-extension",
 	"license": "LGPL-3.0",
 	"prefer-stable": true,
