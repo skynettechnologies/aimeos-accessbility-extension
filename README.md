@@ -1,20 +1,17 @@
 # Quick Aimeos Website Accessibility Remediation with All in One Accessibility Pro extension!
 
 
-The All in One Accessibility Pro extension was developed to improve the accessibility and usability of any size of Aimeos website. It also supports 36 languages. It uses the accessibility interface which handles UI (User Interface) and design related adjustments.
+All in One Accessibility widget improves Aimeos website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.
 
-All in One Accessibility extension enables people with disabilities to use your Aimeos website efficiently and effectively. Remediate your website according 
-to following standards WCAG 2.1, ATAG 2.0, ADA, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, and California Unruh standards. 
-It improves your website’s accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.
+It uses the accessibility interface which handles UI and design related adjustments. All in One Accessibility app enhances your Aimeos website accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.
 
 Following are the USP of All in One Accessibility Pro extension:
 
-- Screen Reader
-- Supports multi language (36 languages).
-- This extension is based on assistive technology.
-- 2 Minutes installation.
+- 2 Minute installation
+- AI widget Supports Over 65 Different Languages
+- Flexible and lightweight widget that can be changed according to law.
 - Reduces the risk of time-consuming accessibility lawsuits.
-- SEO friendly and enhances security due to its lightweight.
+- Screen Reader, widget color and accessibility profiles are the top features
 
 ### Aimeos All in One Accessibility Pro (53 Features):
 
@@ -81,23 +78,23 @@ Following are the USP of All in One Accessibility Pro extension:
 - Hide Interface
 - Multi Language
 
-##### Supports 36 languages
+##### Supports 65 languages
 - English
-- Spanish
-- German
-- Arabic
-- Slovak
-- Portuguese
-- French
 - Italian
-- Polish
-- Turkish
-- Japanese
-- Finnish
+- French
+- German
 - Russian
+- Spanish
+- Finnish
+- Portuguese
+- Arab
+- Polish
 - Hungarian
-- Latin
+- Slovak
+- Japanese
+- Turkish
 - Greek
+- Latin
 - Hebrew
 - Bulgarian
 - Catalan
@@ -108,7 +105,6 @@ Following are the USP of All in One Accessibility Pro extension:
 - Hindi
 - Indonesian
 - Korean
-- Lithuanian
 - Malay
 - Norwegian
 - Romanian
@@ -118,6 +114,36 @@ Following are the USP of All in One Accessibility Pro extension:
 - Ukrainian
 - Vietnamese
 - Bengali
+- Lithuanian
+- Sinhala
+- Amharic
+- Hmong
+- Burmese
+- Latvian
+- Estonian
+- Serbian
+- Portuguese (Brazil)
+- Chinese Traditional
+- Croatian
+- Georgian
+- Hawaiian
+- Welsh
+- Cebuano
+- Samoan
+- Haitian Creole
+- Faroese
+- Montenegrin
+- Australian
+- Azeri
+- Basque
+- Canada
+- Filipino
+- Galician
+- Norwegian
+- Persian
+- Punjabi
+- Spanish (Mexico)
+- United Kingdom
 
 ### Setup
 
